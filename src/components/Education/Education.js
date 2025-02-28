@@ -62,7 +62,7 @@ const Education = () => {
                         2021 - Present
                       </Typography>
                       <Typography variant="body2" color="primary" sx={{ mt: 1 }}>
-                        CGPA: 7.38
+                        CGPA: 7.94
                       </Typography>
                     </Paper>
                   </TimelineContent>
@@ -73,7 +73,7 @@ const Education = () => {
           <Grid item xs={12} md={4}>
             <Box
               component="img"
-              src="/moon.jpeg"
+              src="/p.jpg"
               alt="Moon"
               sx={{
                 width: '100%',

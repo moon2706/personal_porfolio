@@ -5,28 +5,24 @@ import { motion } from 'framer-motion';
 const skillCategories = [
   {
     title: 'Programming Languages',
-    skills: ['Python', 'Java', 'C', 'Javascript'],
+    skills: ['Python', 'Java', 'C', 'MySQL'],
   },
   {
-    title: 'Web Development',
-    skills: ['HTML', 'CSS', 'React.js', 'Node.js', 'Flask'],
+    title: 'Front-End Development',
+    skills: ['HTML', 'CSS', 'JavaScript'],
   },
   {
-    title: 'Machine Learning',
-    skills: ['TensorFlow', 'Keras', 'Scikit-learn', 'CNN', 'LSTM'],
+    title: 'Machine Learning Libraries',
+    skills: ['TensorFlow', 'Scikit-learn', 'Numpy', 'Pandas', 'Matplotlib'],
   },
   {
-    title: 'Data Science',
-    skills: ['Numpy', 'Pandas', 'Matplotlib', 'NLP', 'Regex'],
+    title: 'Platforms and Tools',
+    skills: ['VS Code', 'Jupyter Notebook', 'Google Colab', 'IntelliJ IDEA'],
   },
   {
-    title: 'Database',
-    skills: ['MySQL', 'SQL', 'MongoDB'],
-  },
-  {
-    title: 'Tools & Others',
-    skills: ['Git', 'GitHub', 'VS Code', 'Jupyter Notebook'],
-  },
+    title: 'Soft Skills',
+    skills: ['Problem Solving', 'Teamwork', 'Time Management', 'Adaptability'],
+  }
 ];
 
 const Skills = () => {

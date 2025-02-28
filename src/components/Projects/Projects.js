@@ -6,26 +6,26 @@ import LaunchIcon from '@mui/icons-material/Launch';
 
 const projects = [
   {
-    title: 'Fake Job Recruitment Detection',
-    description: 'Identification of potentially fraudulent job postings on platforms like job portals and social media using advanced deep learning techniques.',
-    technologies: ['HTML', 'CSS', 'Python', 'Flask', 'TensorFlow/Keras', 'LSTM', 'NLP'],
-    domain: ['Deep Learning', 'Fraud Detection'],
-    github: '#',
-    demo: '#'
-  },
-  {
-    title: 'VigilMart',
-    description: 'A modern e-commerce platform with secure payment processing and fraud prevention features, creating a safer shopping environment for users.',
-    technologies: ['React.js', 'Node.js', 'MongoDB', 'Stripe', 'PayPal'],
-    domain: ['Web Development', 'E-commerce'],
+    title: 'Pneumonia Detection Using Deep Learning',
+    description: 'Developed a deep learning model using Convolutional Neural Networks (CNN), Data Augmentation, and Attention Mechanism to accurately predict pneumonia from chest X-ray images. By analyzing patterns in the X-ray images, the model differentiates between healthy lungs and those affected by pneumonia.',
+    technologies: ['Python', 'TensorFlow/Keras', 'CNN', 'Data Augmentation', 'Attention Mechanism'],
+    domain: ['Deep Learning', 'Medical Imaging'],
     github: '#',
     demo: '#'
   },
   {
     title: 'Image Entity Extraction',
-    description: 'A deep learning project that accurately extracts relevant entities from images, such as objects, people, and text, overcoming limitations of manual annotation.',
+    description: 'Developed an image entity extraction system using CNN for detecting visual features and regex for text pattern recognition. Combined deep learning and regex techniques to accurately extract relevant entities from images, achieving efficient and precise image-related entity extraction.',
     technologies: ['CNN', 'Regex', 'Computer Vision', 'NLP'],
     domain: ['Computer Vision', 'NLP'],
+    github: '#',
+    demo: '#'
+  },
+  {
+    title: 'E-commerce Website',
+    description: 'Built a responsive e-commerce website using React.js, Node.js, and MongoDB, featuring user authentication, product management, and shopping cart functionality. Implemented RESTful APIs for efficient data handling, ensuring scalability and optimized performance for a seamless user experience.',
+    technologies: ['React.js', 'Node.js', 'MongoDB', 'Express.js', 'RESTful APIs'],
+    domain: ['Web Development', 'E-commerce'],
     github: '#',
     demo: '#'
   }

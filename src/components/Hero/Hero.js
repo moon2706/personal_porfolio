@@ -38,7 +38,7 @@ const Hero = () => {
                 Welcome to My Universe
               </Typography>
               <Typography variant="h2" component="h1" gutterBottom fontWeight="bold">
-                Rishikesh Pradhan
+                Rajeev Reddy Lakhnapuram
               </Typography>
               <Typography variant="h5" gutterBottom sx={{ mb: 4 }}>
                 Exploring the Frontiers of Code
@@ -53,7 +53,7 @@ const Hero = () => {
                   variant="contained"
                   color="primary"
                   size="large"
-                  href="mailto:moon.pat2002@gmail.com"
+                  href="mailto:reddyrajiv271@gmail.com"
                   sx={{
                     mr: 2,
                     backgroundColor: '#fff',
@@ -69,7 +69,7 @@ const Hero = () => {
                   variant="outlined"
                   color="secondary"
                   size="large"
-                  href="/resume_cv.pdf"
+                  href="/A1Resume.pdf"
                   download
                   sx={{
                     borderColor: '#4fc3f7',
@@ -98,8 +98,8 @@ const Hero = () => {
             >
               <Box
                 component="img"
-                src="/moon3.jpg"
-                alt="Moon"
+                src="/ls.jpg"
+                alt="reddy"
                 sx={{
                   width: '100%',
                   maxWidth: '300px',

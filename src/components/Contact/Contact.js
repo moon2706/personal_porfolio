@@ -10,26 +10,26 @@ const contactInfo = [
   {
     icon: <EmailIcon sx={{ fontSize: 40 }} />,
     title: 'Email',
-    value: 'moon.pat2002@gmail.com',
-    link: 'mailto:moon.pat2002@gmail.com'
+    value: 'reddyrajiv271@gmail.com',
+    link: 'mailto:reddyrajiv271@gmail.com'
   },
   {
     icon: <PhoneIcon sx={{ fontSize: 40 }} />,
     title: 'Phone',
-    value: '+91 6304989015',
-    link: 'tel:+916304989015'
+    value: '+91 8074132963',
+    link: 'tel:+918074132963'
   },
   {
     icon: <LinkedInIcon sx={{ fontSize: 40 }} />,
     title: 'LinkedIn',
-    value: 'rishikesh-pradhan',
-    link: 'https://linkedin.com/in/rishikesh-pradhan'
+    value: 'rajiv-reddy',
+    link: 'https://www.linkedin.com/in/rajiv-reddy-429a67237/'
   },
   {
     icon: <GitHubIcon sx={{ fontSize: 40 }} />,
     title: 'GitHub',
-    value: 'moon2706',
-    link: 'https://github.com/moon2706'
+    value: 'no-one-a1',
+    link: 'https://github.com/no-one-a1'
   }
 ];
 

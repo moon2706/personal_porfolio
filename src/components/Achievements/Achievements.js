@@ -7,23 +7,26 @@ import SchoolIcon from '@mui/icons-material/School';
 
 const achievements = [
   {
-    title: 'Competitive Programming',
-    details: [
-      'Codolio: 30+ Contests',
-      '6+ Awards and Badges',
-      'Total Questions solved: 370+',
-      'Max Rating: 1445'
-    ],
-    icon: <EmojiEventsIcon sx={{ fontSize: 40, color: '#1a237e' }} />
-  },
-  {
     title: 'Certifications',
     details: [
-      'Web Development Bootcamp — Udemy (Dr. Angela Yu)',
-      'Java Spring Framework 6 with Spring Boot 3 — Udemy (Navin Reddy)',
-      'AWS — NSIC (Internship)'
+      'Amazon Web Services ',
+      'Python For Data Science (65%) ',
+      'Programming, Data Structures And Algorithms Using Python (64%)',
+      // 'Amazon Web Services : July 2023 - July 2023',
+      // 'Python For Data Science (65%) : July 2023 - Aug 2023',
+      // 'Programming, Data Structures And Algorithms Using Python (64%) : July 2023 - Sep 2023'
     ],
     icon: <WorkspacePremiumIcon sx={{ fontSize: 40, color: '#1a237e' }} />
+  },
+  {
+    title: 'Competitive Programming',
+    details: [
+      'Leetcode: KNIGHT | Max Rating - 1869 | Top 6% in the world',
+      'Leetcode: Solved 600+ problems and achieved more than 10 Badges',
+      'CodeChef: Max Rating - 1774',
+      'GeeksForGeeks: Max Rating - 1736 | Coding Score: 841 | Solved 250+ problems'
+    ],
+    icon: <EmojiEventsIcon sx={{ fontSize: 40, color: '#1a237e' }} />
   },
   {
     title: 'Academic & Leadership',
