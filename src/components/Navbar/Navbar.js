@@ -67,7 +67,7 @@ const Navbar = () => {
       <AppBar position="fixed" sx={{ backgroundColor: '#1a237e' }}>
         <Toolbar>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-            Rishikesh Pradhan
+          Rajeev Reddy
           </Typography>
           {isMobile ? (
             <IconButton
